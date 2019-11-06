@@ -1,5 +1,5 @@
 
-# Svelte+Tailwind Template
+# Svelte + Tailwind Template
 
 _Looking for the official Svelte template? Go here --> [github.com/sveltejs/template](https://github.com/sveltejs/template)_
 
