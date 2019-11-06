@@ -8,6 +8,7 @@ This web application template was put together with [Svelte 3](https://svelte.de
 ## Setup
 
 ```bash
+[~] npm i -g degit
 [~] npx degit tobius/svelte-template app && cd app
 [~/app] npm i
 ```
